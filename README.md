@@ -84,6 +84,13 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 01 September 2025 - To: 08 September 2025
+
+Java   1 hr 54 mins    █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
