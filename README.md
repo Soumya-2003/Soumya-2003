@@ -86,9 +86,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
-No activity tracked
+Java   43 mins         ████████████▓░░░░░░░░░░░░   51.08 %
+XML    27 mins         ████████░░░░░░░░░░░░░░░░░   31.79 %
+YAML   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+JSON   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
