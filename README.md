@@ -86,9 +86,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-No activity tracked
+Java              1 hr 58 mins    ███████████████████▓░░░░░   78.22 %
+Java Properties   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+XML               14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
