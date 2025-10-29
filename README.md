@@ -86,11 +86,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2025 - To: 27 October 2025
+From: 21 October 2025 - To: 28 October 2025
 
-Java              1 hr 58 mins    ███████████████████▓░░░░░   78.22 %
-Java Properties   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-XML               14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Java              1 hr 58 mins    ███████████████████▒░░░░░   77.23 %
+Java Properties   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+XML               14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+JSON              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
