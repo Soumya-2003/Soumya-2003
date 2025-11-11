@@ -86,11 +86,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-Text     12 mins         ████████████████████▒░░░░   81.90 %
-YAML     2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+YAML     44 mins         ██████████████████████░░░   88.30 %
+Other    5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
 ```
 
 <!--END_SECTION:waka-->
