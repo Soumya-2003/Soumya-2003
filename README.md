@@ -86,10 +86,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-YAML     41 mins         ████████████████████▒░░░░   81.34 %
-Other    5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Java   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
